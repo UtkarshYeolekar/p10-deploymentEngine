@@ -1,0 +1,25 @@
+{
+  "name": "p10-deploymentengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "K8s_Api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtkarshYeolekar/p10-deploymentengine.git"
+  },
+  "author": "Utkarsh",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "json-stream": "^1.0.0",
+    "kubernetes-client": "^3.10.1",
+    "randomstring": "^1.1.5"
+  },
+  "bugs": {
+    "url": "https://github.com/UtkarshYeolekar/p10-deploymentengine/issues"
+  },
+  "homepage": "https://github.com/UtkarshYeolekar/p10-deploymentengine#readme"
+}
